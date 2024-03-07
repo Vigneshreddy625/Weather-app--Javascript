@@ -5,8 +5,11 @@ This Weather App allows users to search for a city and retrieve current weather 
 # Features
 
 City Search: Users can enter the name of their desired city in the search bar to retrieve weather information.
+
 Temperature Display: The app displays the current temperature of the searched city.
+
 Weather Condition: Based on the temperature, the app indicates whether it's sunny, cloudy, or other weather conditions.
+
 Humidity and Wind Speed: In addition to temperature, the app also shows the humidity and wind speed of the searched location.
 
 # Technologies Used
